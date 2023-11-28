@@ -1,0 +1,6 @@
+Pillow==9.4.0
+pandas==1.5.3
+streamlit==1.17.0
+ultralytics==8.0.200
+matplotlib==3.8.0
+Pillow==10.1.0
